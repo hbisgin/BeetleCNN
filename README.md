@@ -1,1 +1,1 @@
-# beetleCNN
+This repository includes Matlab files which were used to crop beetle images and create training and test sets. For each species, we use existing images from which we get random crops with certain sizes to simulate fragmentation and populate data sets to build and test our models. Once we have sets ready, we use the Python script which uses Keras and Tensorflow to perform training and prediction.
